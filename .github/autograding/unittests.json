@@ -16,5 +16,12 @@
     "function": "test_main_ticket",
     "timeout": 10,
     "points": 1
-  }
+  },
+  {
+    "tests": [
+        "tests/test_main.py",
+        "tests/test_lottery_logic.py",
+        "tests/test_utils.py"
+    ]
+}
 ]

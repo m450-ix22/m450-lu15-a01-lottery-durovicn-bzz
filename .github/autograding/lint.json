@@ -1,6 +1,10 @@
 {
   "files": [
-    "test_main.py"
+    "main.py",
+    "utils.py",
+    "tests/test_main.py",
+    "tests/test_lottery_logic.py",
+     "tests/test_utils.py"
   ],
   "ignore" : [],
   "max": 10
